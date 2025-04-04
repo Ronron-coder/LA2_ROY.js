@@ -1,4 +1,4 @@
-/* CS1A_JMGacusana_C1-A2.js
+/* CS1A_RoyRonan_C1-A2.js
 C1-A2: Mathematical and Comparison Operations, and Type Conversions. 
 I use let to declare a variable and const to declare a constant.
 */
