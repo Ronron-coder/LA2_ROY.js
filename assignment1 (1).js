@@ -1,15 +1,14 @@
-/* CS1A_JMGacusana_C1-A1.js
-Number 1,
-C1-A1 Variable/Constants Declaration and String Concatenation Methods.
-I use let to declare the variable name and double quotation for strings. */
+//Number 1,
+//C1-A1 Variable/Constants Declaration and String Concatenation Methods.
+//I use let to declare the variable name and double quotation for strings. */
 
 /* Student's Information 1.
-Name = JOHN MARK GACUSANA.
-Birthday = August 18, 2006.
-Birthplace = LORMA MEDICAL CENTER, SAN FERNANDO CITY, PHILIPPINES, 2500.
-Address = PARIOC SEGUNDO, CANDON CITY, ILOCOS SUR, PHILIPPINES, 2710.
+Name = Roy Ronan S.
+Birthday = January 2, 2005.
+Birthplace = Candon city hospital , Candon city, PHILIPPINES, 2203.
+Address = Lancuas, San Emilio, ILOCOS SUR, PHILIPPINES, 2203.
 Course and Year = bachelor of science in computer science, 1st year.
-Dream Job after graduation = Software Engineer. */
+Dream Job after graduation = hacker. */
 
 /* Classmates Student's Information 1.
 Name = MARK A. HABUNGAN.
@@ -28,12 +27,12 @@ Course and Year = bachelor of science in computer science, 1st year.
 Dream Job after graduation = Electrical Engineer. */
 
 // variables for student 1.
-let name1 = "JOHN MARK GACUSANA";
-let birthdate1 = "August 18, 2006";
-let birth_place1 = "LORMA MEDICAL CENTER, SAN FERNANDO CITY, PHILIPPINES, 2500";
-let address1 = "PARIOC SEGUNDO, CANDON CITY, ILOCOS SUR, PHILIPPINES, 2710";
+let name1 = "Roy Ronan S";
+let birthdate1 = "January 2, 2005";
+let birth_place1 = "Candon City Hospital, Candon CITY, PHILIPPINES, 2203 ";
+let address1 = "PARIOC SEGUNDO, CANDON CITY, ILOCOS SUR, PHILIPPINES,2203";
 let CourseAndYear1 = "bachelor of science in computer science, 1st year";
-let dream_job_after_graduation1 = "Software Engineer";
+let dream_job_after_graduation1 = "Hacker";
 
 //varables for classmates student 1.
 let name2 = "MARK A. HABUNGAN";
